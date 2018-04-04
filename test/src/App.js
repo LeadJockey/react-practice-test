@@ -4,7 +4,7 @@ import RouteWrapper from './components/RouteWrapper'
 
 const App = () => (
 	<Router>
-		<RouteWrapper>{console.log('hello world')}
+		<RouteWrapper>{console.log('hello world test')}
 		</RouteWrapper>
 	</Router>
 );
